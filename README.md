@@ -1,0 +1,1 @@
+Magento 2 module for [tiny-slider](https://github.com/ganlanyuan/tiny-slider)

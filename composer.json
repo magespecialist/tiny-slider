@@ -1,0 +1,29 @@
+{
+    "name": "msp/tinyslider",
+    "description": "",
+    "require": {        
+        "magento/magento-composer-installer": "*"
+    },
+    "suggest": {
+
+    },
+    "authors": [
+        {
+            "name": "Lorenzo Stramaccia",
+            "email": "lorenzo.stramaccia@magespecialist.it"
+        }
+    ],
+    "type": "magento2-module",
+    "version": "0.1.0",
+    "license": [
+
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "MSP\\TinySlider\\": ""
+        }
+    }
+}

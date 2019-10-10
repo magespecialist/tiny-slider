@@ -1,0 +1,7 @@
+Copyright © 2019-present Skeeller srl - MageSpecialist.
+
+Each source file included in this module is licensed under OSL 3.0 .
+
+http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0).
+
+tiny-slider code is licensed under MIT license. See https://github.com/ganlanyuan/tiny-slider/blob/master/LICENSE for details.

@@ -1,6 +1,6 @@
 {
     "name": "msp/tinyslider",
-    "description": "",
+    "description": "Magento 2 wrapper for ganlanyuan/tiny-slider",
     "require": {        
         "magento/magento-composer-installer": "*"
     },
@@ -14,9 +14,8 @@
         }
     ],
     "type": "magento2-module",
-    "version": "0.1.0",
     "license": [
-
+        "OSL-3.0"
     ],
     "autoload": {
         "files": [
